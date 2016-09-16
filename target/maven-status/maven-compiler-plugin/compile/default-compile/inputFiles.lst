@@ -1,1 +1,6 @@
-/Users/denglinjie/code/github/jason-study/src/main/java/jason-study/App.java
+/Users/denglinjie/code/github/jason-study/src/main/java/jason/kafka/KafkaProducer.java
+/Users/denglinjie/code/github/jason-study/src/main/java/jason/App.java
+/Users/denglinjie/code/github/jason-study/src/main/java/jason/kafka/KafkaConsumer.java
+/Users/denglinjie/code/github/jason-study/src/main/java/jason/multythread/SemaphoreTest.java
+/Users/denglinjie/code/github/jason-study/src/main/java/jason/zookeeper/Master.java
+/Users/denglinjie/code/github/jason-study/src/main/java/jason/multythread/CyclicBarrierTest.java
